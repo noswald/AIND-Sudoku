@@ -10,7 +10,7 @@ We then continue within the remaining units, testing in this way until complete.
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?
-A: We add the diagonal constraint as another unit set to compare against when running the other parts of our algorithm.
+A: We add the diagonal constraints as another unit set to compare against when running the other parts of our algorithm.
 
 ### Install
 
